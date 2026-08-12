@@ -1,0 +1,17 @@
+header{
+    h1{
+        font-size: 70px;
+        text-align: center;
+        background-color: brown;
+        color: bisque;
+        border-radius: 20px;
+    }
+}
+main{
+
+}
+footer{
+    p{
+        font-size: 20px;
+    }
+}
