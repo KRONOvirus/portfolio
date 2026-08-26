@@ -1,17 +1,15 @@
-header{
-    h1{
-        font-size: 70px;
-        text-align: center;
-        background-color: brown;
-        color: bisque;
-        border-radius: 20px;
-    }
+html{
+    background-color: aqua;
 }
 main{
-
-}
-footer{
-    p{
-        font-size: 20px;
+    h1{
+        text-align: center;
+        background-color: brown;
+        border-radius: 20px;
+        font-size: 60px;
     }
+}
+.cartao{
+    margin: auto;
+
 }
