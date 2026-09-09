@@ -1,15 +1,16 @@
 html{
-    background-color: aqua;
+    background-color: #F8EBAB;
 }
 main{
     h1{
         text-align: center;
-        background-color: brown;
+        background-color: #BE1A1A;
         border-radius: 20px;
         font-size: 60px;
+        color: #F7D87F;
     }
 }
 .cartao{
     margin: auto;
-
+background-size: 100px;
 }
