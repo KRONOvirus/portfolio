@@ -6,11 +6,12 @@ main{
         text-align: center;
         background-color: #BE1A1A;
         border-radius: 20px;
-        font-size: 60px;
+        font-size: 50px;
         color: #F7D87F;
     }
-}
-.cartao{
-    margin: auto;
-background-size: 100px;
+    .centro{
+        margin: auto;
+        width: 820px;
+        text-align: center;
+    }
 }
