@@ -7,4 +7,5 @@ function inscricao(){
         alert("nome aura do crlh")
     }
 
+    alert("fodase")
 }
